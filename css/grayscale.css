@@ -277,8 +277,8 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll; */
-    background: url(../img/bg2.jpg) no-repeat top top scroll; 
+    background: url(../img/downloads-bg.jpg) no-repeat center center scroll; 
+    /*background: url(../img/bg2.jpg) no-repeat top top scroll; */
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
